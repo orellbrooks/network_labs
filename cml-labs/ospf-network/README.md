@@ -12,3 +12,5 @@ Modern enterprise networks separate the **Transport Underlay** (physical connect
 
 1. Download the [`cml-ospf-wan-lab.yaml`](./cml-ospf-wan-lab.yaml) file from this repository. 
 2. In CML, click **Import** on the Dashboard and select the YAML file.
+
+<img width="1256" height="669" alt="Screenshot 2026-08-16 at 2 12 15 PM" src="https://github.com/user-attachments/assets/b2d32825-fb64-48da-b866-ec1e5ccde854" />
