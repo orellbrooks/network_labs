@@ -1,4 +1,4 @@
-# Multi-Area Enterprise OSPF & GRE WAN Architecture **see topology below**
+# Multi-Area Enterprise OSPF & GRE WAN Architecture (see topology below)
 
 A production-grade, 5-node Enterprise WAN simulation designed and built in **Cisco Modeling Labs (CML)**. This project demonstrates advanced control plane engineering, GRE overlay tunneling across a simulated WAN transport, multi-area OSPF routing, site optimization using **Totally Stubby Areas**
 
