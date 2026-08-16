@@ -10,5 +10,5 @@ Modern enterprise networks separate the **Transport Underlay** (physical connect
 
 ## How to Run in it for yourself in Cisco Modeling Labs (CML)
 
-1. Download the [`cml-ospf-wan-lab.yaml`](./cml-ospf-wan-lab.yaml) file from this repository.
+1. Download the [`cml-ospf-wan-lab.yaml`](./cml-ospf-wan-lab.yaml) file from this repository. 
 2. In CML, click **Import** on the Dashboard and select the YAML file.
